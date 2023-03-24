@@ -19,3 +19,12 @@
 - Tab-key-order(whenever we submit a form we need tab-key order to go to the next field. So,you can select here, Whether it needs to go from left-right (or) top-down
 - You can create as many sections as you needed
 - There is one-way called as drag and drop called as pallet
+- so,if you observe for formula fields  there is a lock
+- Earlier with roll-up summary as well you see some there are only read only
+- For Personal infromation one section,for contact into for related info rating related info
+#### How many page Layouts can we create
+---------------------------------------------------------------------------------
+- we can create as many as pagelayouts we need
+- we cana ssign different-different ways down to differnt users
+- Imagine that you are sitting on the 
+
