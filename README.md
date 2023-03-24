@@ -25,6 +25,6 @@
 #### How many page Layouts can we create
 ---------------------------------------------------------------------------------
 - we can create as many as pagelayouts we need
-- we cana ssign different-different ways down to differnt users
+- we can assign different-different ways down to different users
 - Imagine that you are sitting on the 
 
