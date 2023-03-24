@@ -4,7 +4,7 @@
 - so,If you want some fields to the at starting and some fields at end(so,for this we need to rearrange the fields in here)
 - If you want to modify the layout,Inorder to do that what I need do is,I need to know about the tools that are available to modify the UI without actually writing a single line of code
 - Here in UI Customization, we go to know that how to modify the UI without writing single line of extra code
-- 1.Page Layout
+- ###  1.Page Layout
 ---------------------------
 - Page Layouts controls two things
 - 1.Detail page of a record
