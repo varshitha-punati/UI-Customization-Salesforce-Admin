@@ -26,5 +26,5 @@
 ---------------------------------------------------------------------------------
 - we can create as many as pagelayouts we need
 - we can assign different-different ways down to different users
-- Imagine that you are sitting on the 
+- Imagine that you are sitting on the
 
