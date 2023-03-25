@@ -57,6 +57,8 @@
 - ### What are Mini Page Layouts?
 
 - First, we will discuss some basic details of Salesforce Mini Page layouts for better understanding. 
+![image](https://user-images.githubusercontent.com/72751737/227691454-d0bbd56d-73dc-4f6f-b94a-bfe268fb74d3.png)
+
 - It is used to display the subset of items of an existing page layout across different records. 
 - This feature is quite useful when you need to know about features without actually opening the database. 
 - Users only need to hover pointer on the specific recent items, after which you will get the required details. 
@@ -64,3 +66,22 @@
 
 - Users also need to configure Profile Associations and Access Settings related to page layouts.
 -  The main point to note is that each page layout has a separate mini page layout for Salesforce users.
+- What are Compact Layouts in Salesforce?
+- ![image](https://user-images.githubusercontent.com/72751737/227691842-9920a54c-4db9-47cf-ab0b-45277314b0b9.png)
+
+- Status Field is not available in compact layout - Salesforce Developer  Community
+- Moving ahead, we have Compact Layouts that are used to display the group of fields accordingly. 
+- These are the ones present on the highlights panel of Salesforce1. 
+- Thus, you can look for all key field values in that record. However, the maximum limit is only 10 fields at a time.
+-  No doubt Compact Layouts can show all field types except for these,
+
+Text Area
+Rich Text Area
+Long Text Area
+Multi-Select Picklist
+Salesforce1 is a multi-purpose Salesforce mobile application that is used to manage your business. 
+It acts as an effective platform for users who want to stay in touch with their accounts.
+Being a mobile app, you can easily customize and alter the settings.
+However, all changes will only reflect in the existing Salesforce account after you re-login. 
+This feature is practical to avoid accidental edits made.
+
