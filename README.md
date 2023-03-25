@@ -54,3 +54,13 @@
 – Formula fields are not available in search result layouts.
 
 
+- ### What are Mini Page Layouts?
+
+- First, we will discuss some basic details of Salesforce Mini Page layouts for better understanding. 
+- It is used to display the subset of items of an existing page layout across different records. 
+- This feature is quite useful when you need to know about features without actually opening the database. 
+- Users only need to hover pointer on the specific recent items, after which you will get the required details. 
+- Therefore, you can easily view the information in Mini Page Layouts.
+
+- Users also need to configure Profile Associations and Access Settings related to page layouts.
+-  The main point to note is that each page layout has a separate mini page layout for Salesforce users.
