@@ -75,13 +75,12 @@
 - Thus, you can look for all key field values in that record. However, the maximum limit is only 10 fields at a time.
 -  No doubt Compact Layouts can show all field types except for these,
 
-Text Area
-Rich Text Area
-Long Text Area
-Multi-Select Picklist
-Salesforce1 is a multi-purpose Salesforce mobile application that is used to manage your business. 
-It acts as an effective platform for users who want to stay in touch with their accounts.
-Being a mobile app, you can easily customize and alter the settings.
-However, all changes will only reflect in the existing Salesforce account after you re-login. 
-This feature is practical to avoid accidental edits made.
-
+- Text Area
+- Rich Text Area
+- Long Text Area
+- Multi-Select Picklist
+- Salesforce1 is a multi-purpose Salesforce mobile application that is used to manage your business. 
+- It acts as an effective platform for users who want to stay in touch with their accounts.
+- Being a mobile app, you can easily customize and alter the settings.
+- However, all changes will only reflect in the existing Salesforce account after you re-login. 
+- This feature is practical to avoid accidental edits made.
