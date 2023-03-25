@@ -22,7 +22,9 @@
 - so,if you observe for formula fields  there is a lock
 - Earlier with roll-up summary as well you see some there are only read only
 - For Personal infromation one section,for contact into for related info rating related info
-#### How many page Layouts can we createw
+- ![image](https://user-images.githubusercontent.com/72751737/227690471-3b6e1633-bfcb-462b-aff4-57c52ee6b4c8.png)
+
+#### How many page Layouts can we create ?
 ---------------------------------------------------------------------------------
 - we can create as many as pagelayouts we need
 - we can assign different-different ways down to different users
@@ -50,4 +52,5 @@
 – We can’t remove unique identifying fields like Account Name or Case Number, from the search layouts. These fields must be listed first in the order.
 – We can‘t add long text fields such as Description, Solution Details, or custom long text area fields.
 – Formula fields are not available in search result layouts.
+
 
