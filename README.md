@@ -22,9 +22,13 @@
 - so,if you observe for formula fields  there is a lock
 - Earlier with roll-up summary as well you see some there are only read only
 - For Personal infromation one section,for contact into for related info rating related info
-#### How many page Layouts can we create
+#### How many page Layouts can we createw
 ---------------------------------------------------------------------------------
 - we can create as many as pagelayouts we need
 - we can assign different-different ways down to different users
-- Imagine that you are sitting on the
+- Imagine that you are sitting on the registartion desk we want different page layout
+- suppose for manager different page layout, for CEO different page layout
+- Goto=>object=>page layout=>new 
+- you can create a new page layout with the existing one and after creating you can assign based on page layout assignment
+- 
 
