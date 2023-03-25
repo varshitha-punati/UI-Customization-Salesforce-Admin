@@ -84,3 +84,4 @@
 - Being a mobile app, you can easily customize and alter the settings.
 - However, all changes will only reflect in the existing Salesforce account after you re-login. 
 - This feature is practical to avoid accidental edits made.
+
